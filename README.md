@@ -61,5 +61,5 @@ streamlit run app.py
 
 ## 📸 Screenshot
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Himanshu-771/SPAM-MAIL-DETECTION/blob/main/image.png?raw=true)
 
