@@ -58,6 +58,10 @@ streamlit run app.py
 ```
 
 ---
+## 🌐 Live Web App  
+You can try the live version of this project here:
+
+👉 **Live Demo:** <a href="https://spam-mail-detection-mjmgwtqc8bcappnknjmoeqq.streamlit.app">Spam Mail Detector</a>
 
 ## 📸 Screenshot
 
